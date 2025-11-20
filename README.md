@@ -1,4 +1,4 @@
-# 🧬 PathMNIST Classification with ResNet-18  
+# PathMNIST Classification with ResNet-18  
 *A Deep Learning Pipeline for Histopathology Image Classification*
 
 ## Overview  
